@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Disable ScreenShot</string>
+    <string name="permission_required">Permissions Required</string>
+    <string name="message">Permission to access the phone state is required for this app.</string>
+    <string name="scheme">package</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="user_denied_msg">User Has Denied Permission</string>
+    <string name="user_force_denied_msg">User Has Denied Permission with Don\'t Ask Again</string>
+    <string name="permission_allowed">User Has Allowed Permission</string>
+    <string name="force_denied_msg_false">Don\'t ask again is False</string>
+    <string name="force_denied_msg_true">Don\'t ask again is True</string>
+    <string name="phone_ringing">Phone is Ringing</string>
+    <string name="call_received">Call Received</string>
+    <string name="phone_idle">Phone is Idle</string>
+    <string name="Tag">TAG</string>
+</resources>
